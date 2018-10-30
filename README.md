@@ -26,32 +26,34 @@ It’s not mandatory to write code, this session should solve issues with specif
 
 ## Calendar
 
+These lectures are the ones that I suggest. Pick two per month.
+
 #### MONTH 1
 
-#### Week 1
-#### Week 2
-#### Week 3
-#### Week 4
+#### Week 1 - Flexbox + Layouts.
+#### Week 2 - Media Queries.
+#### Week 3 - JavaScript Loops/JavaScript Arrays + Objects
+#### Week 4 - JavaScript Intro to DOM/JavaScript Events
 
 #### MONTH 2
 
-#### Week 5
-#### Week 6
-#### Week 7
-#### Week 8
+#### Week 5 - JavaScript APIs + DOM Manipulation
+#### Week 6 - React Introduction/State + Props
+#### Week 7 - React Routing
+#### Week 8 - Q&A Session/Callback pattern
 
 #### MONTH 3
 
-#### Week 9
-#### Week 10
-#### Week 11
-#### Week 12
+#### Week 9 - Database Design/SQL Joins
+#### Week 10 - Express Static Views/Deploy
+#### Week 11 - Data Access Integration(Database + Node)/Deploy
+#### Week 12 - Authentication/React Integration w/ Node
 
 #### MONTH 4
 
-#### Week 13
-#### Week 14
-#### Week 15
+#### Week 13 - Q&A Session: How to deal with stress
+#### Week 14 - Q&A Session: How to deal with planning/How to deal with new technologies
+#### Week 15 - Talk about your experience
 
 ## Rules
 
