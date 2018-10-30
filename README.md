@@ -28,32 +28,23 @@ It’s not mandatory to write code, this session should solve issues with specif
 
 These lectures are the ones that I suggest. Pick two per month.
 
-#### MONTH 1
-
-#### Week 1 - Flexbox + Layouts.
-#### Week 2 - Media Queries.
-#### Week 3 - JavaScript Loops/JavaScript Arrays + Objects
-#### Week 4 - JavaScript Intro to DOM/JavaScript Events
-
-#### MONTH 2
-
-#### Week 5 - JavaScript APIs + DOM Manipulation
-#### Week 6 - React Introduction/State + Props
-#### Week 7 - React Routing
-#### Week 8 - Q&A Session/Callback pattern
-
-#### MONTH 3
-
-#### Week 9 - Database Design/SQL Joins
-#### Week 10 - Express Static Views/Deploy
-#### Week 11 - Data Access Integration(Database + Node)/Deploy
-#### Week 12 - Authentication/React Integration w/ Node
-
-#### MONTH 4
-
-#### Week 13 - Q&A Session: How to deal with stress
-#### Week 14 - Q&A Session: How to deal with planning/How to deal with new technologies
-#### Week 15 - Talk about your experience
+|Month|Week|Type|Lecture|Mentor in charge|
+|-----|----|----|-------|----------------|
+|1|1|Review Session/Online Session|Flexbox + Layouts|TBD|
+|1|2|Review Session/Online Session|Media Queries|TBD|
+|1|3|Review Session/Online Session|JavaScript Loops/JavaScript Arrays + Objects|TBD|
+|1|4|Review Session/Online Session|JavaScript Intro to DOM/JavaScript Events|TBD|
+|2|5|Review Session/Online Session|JavaScript APIs + DOM Manipulation|TBD|
+|2|6|Review Session/Online Session|React Introduction/State + Props|TBD|
+|2|7|Review Session/Online Session|React Routing|TBD|
+|2|8|Review Session/Online Session|Q&A Session/Callback pattern|TBD|
+|3|9|Review Session/Online Session|Database Design/SQL Joins|TBD|
+|3|10|Review Session/Online Session|Express Static Views/Deploy|TBD|
+|3|11|Review Session/Online Session|Data Access Integration(Database + Node)/Deploy|TBD|
+|3|12|Review Session/Online Session|Authentication/React Integration w/ Node|TBD|
+|4|13|Review Session/Online Session|Q&A Session: How to deal with stress|TBD|
+|4|14|Review Session/Online Session|Q&A Session: How to deal with planning/How to deal with new technologies|TBD|
+|4|15|Review Session/Online Session|Talk about your experience|TBD|
 
 ## Rules
 
