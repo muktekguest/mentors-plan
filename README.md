@@ -58,3 +58,5 @@ I will help you to prepare a class and be ready for the students.
 ## Experience
 
 To be more professional, I’ll schedule these sessions in the calendar, so all students can have time to attend with you guys, and appretiate their effort.
+
+**Fork the repo and add your name instead of TBD.**
