@@ -7,10 +7,11 @@
 
 ## Activities
 
-|#|Description|Priority|
-|1|Review Session _face to face_|1|
-|2|Online Session _using Google Hangouts_|2|
-|3|Q&A Session _Google Hangouts_|3|
+|#|Description|
+|-|-----------|
+|1|Review Session _face to face_|
+|2|Online Session _using Google Hangouts_|
+|3|Q&A Session _Google Hangouts_|
 
 ### 1. Review Session
 
